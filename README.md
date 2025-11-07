@@ -17,7 +17,7 @@ Frontend-разработчик. Работаю с React и TypeScript, любл
 
 - **SkillSwap** — SPA для обмена навыками. Storybook, unit-tests.  (https://github.com/PM-YandexPracticum/SkillSwap_30_1)
 - **Stellar-burgers** — веб-приложение для заказа бургеров с авторизацией, интерактивным конструктором, лентой заказов в реальном времени и личным кабинетом. (https://github.com/impullsss/stellar-burgers)
-- **Weather-app** - React-приложение для просмотра текущей погоды в выбранном городе. (https://github.com/impullsss/stellar-burgers)
+- **Weather-app** - React-приложение для просмотра текущей погоды в выбранном городе. (https://github.com/impullsss/weather-app)
 
 ---
 
